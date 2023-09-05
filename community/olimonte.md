@@ -1,4 +1,4 @@
-<img src="https://postimg.cc/1f2yd3n5">
+[![Cabe-alho-Readme.png](https://i.postimg.cc/HksjVJT5/Cabe-alho-Readme.png)](https://postimg.cc/1f2yd3n5)
 
 ### Olá 👋
 - Sou um estudante de Análise e Desenvolvimento de Sistemas, onde me encontro atualmente no 2º Período na Universidade Estácio de Sá e pretendo me especializar na área de Ciência de Dados.
